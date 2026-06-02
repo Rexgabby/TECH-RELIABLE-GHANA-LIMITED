@@ -61,7 +61,7 @@ a :hover{
 /* the Hero style */
 
 .hero{
-    background: linear-gradient(rgb(187, 187, 189, 0.2) ,rgb(24, 55, 85, 0.9)), url(images/lp3.webp);
+    background: linear-gradient(rgb(187, 187, 189, 0.2) ,rgb(24, 55, 85, 0.9)), url(Images/lp2.webp);
     height: 70vh;
     display: flex;
     align-items: center;
