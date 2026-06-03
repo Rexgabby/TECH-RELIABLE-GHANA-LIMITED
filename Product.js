@@ -1,6 +1,6 @@
 // ---------- PRODUCT DATABASE ----------
     const products = [
-        { id: 1, name: "HP PROBOOK 460 G11 NOTEBOOK INTEL CORE ULTRA 7-155U, 8GB DDR5, 512GB SSD, INTEGRATED INTEL GRAPHICS, 16″ WUXGA IPS 300NITS NON-TOUCH, HP PREMIUM BACKLIT KYB W/ NUMPAD, FINGERPRINT READER, WIN 11", brand: "HP", price: 12500, originalPrice: 13500, discount: "26%", image: "ProductImages/hp probook 460.webp" },
+        { id: 1, name: "HP PROBOOK 460 G11 NOTEBOOK INTEL CORE ULTRA 7-155U, 8GB DDR5, 512GB SSD, INTEGRATED INTEL GRAPHICS, 16″ WUXGA IPS 300NITS NON-TOUCH, HP PREMIUM BACKLIT KYB W/ NUMPAD, FINGERPRINT READER, WIN 11", brand: "HP", price: 12500, originalPrice: 13500, discount: "26%", image: "ProductImages/p460.webp" },
         { id: 2, name: "HP ALLL IN ONE DESKTOP, HP 24-CR0309NH, INTEL CORE I5, 1335U, 8GB DDR4 RAM, 512GB SSD, NON TOUCH WIN 11, KB, MOUSE, WIFI, WHITE", brand: "HP", price: 11125, originalPrice: 13000, discount: "14.5%", image: "ProductImages/all in one.webp" },
         { id: 3, name: "HP LASERJET ENTERPRISE B/W 137FNW", brand: "HP", price: 12343.75, originalPrice: 13500, discount: "9%", image: "ProductImages/HP 137.webp" },
         { id: 4, name: "EPSON PROJECTOR - EB-W53, MODEL NO : HB57B, 4000 LUMENS", brand: "EPSON", price: 8390.63, originalPrice: 9200, discount: "8.8%", image: "ProductImages/projec.webp" }
