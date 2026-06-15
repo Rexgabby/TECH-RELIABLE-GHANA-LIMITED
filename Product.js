@@ -304,8 +304,8 @@
                 orderDetails = 'No specific product';
             }
             const subject = `New Order from ${name}`;
-            const body = `Hello Kantamanto,\n\nI would like to place an order:\n\n${orderDetails}\n\nTotal: ₵${totalOrder}\n\nMy details:\n- Name: ${name}\n- Email: ${email}\n- Address: ${address}\n- Phone: ${phone}\n\nPlease confirm.`;
-            const mailtoLink = `mailto:support@kantamanto.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+            const body = `Hello Bridge-Well Africa,\n\nI would like to place an order:\n\n${orderDetails}\n\nTotal: ₵${totalOrder}\n\nMy details:\n- Name: ${name}\n- Email: ${email}\n- Address: ${address}\n- Phone: ${phone}\n\nPlease confirm.`;
+            const mailtoLink = `mailto:support@bridgewellafrica.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
             window.location.href = mailtoLink;
             // GA4 purchase tracking is not actual purchase but email intent, but track generate_lead? optional
             if (typeof window.trackEcommerceEvent === 'function') {
